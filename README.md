@@ -36,7 +36,7 @@ Matlab 2021b compatible software
 - Select the mStatGraph.mlappinstall file
 - In the Install dialog click on the "Install" button
 
-Create a directory and copy into it the following databases: etopo_2.mat, gshhs_f_coast.mat, gshhs_f_rivers.mat, and wdb_f_borders.mat. hese 3 files can be downloaded from [https://zenodo.org/record/8152618](https://zenodo.org/record/8152618)
+Create a directory and copy into it the following databases: etopo_2.mat, gshhs_f_coast.mat, gshhs_f_rivers.mat, and wdb_f_borders.mat. hese 3 files can be downloaded from [https://zenodo.org/record/8152683](https://zenodo.org/record/8152683)
 
 
 ## How to run
