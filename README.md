@@ -12,7 +12,7 @@ Plotting and Statistical Analysis for Oceanographers, Meteorologists and Ecologi
 
 # Version
 
-![](https://img.shields.io/badge/Version%3A-1.6-success)
+![](https://img.shields.io/badge/Version%3A-1.7-success)
 
 # License
 
