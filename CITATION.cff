@@ -1,0 +1,71 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Plotting and Statistical Analysis for Oceanographers, Meteorologists
+  and Ecologists (mStatGraph)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Varona
+    given-names: Humberto L.
+    email: humberto.varona@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-7405-4827'
+  - given-names: Noriega
+    family-names: Carlos
+    email: carlos.delnor@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0002-3590-6377'
+  - given-names: Julia
+    family-names: Araujo
+    email: juliamdearaujo@gmail.com
+    affiliation: >-
+      Brazilian Research network on Global Climate Change (Rede CLIMA),
+      São José dos Campos, SP, Brazil
+    orcid: 'https://orcid.org/0000-0001-8353-6254'
+  - given-names: Lira
+    family-names: Simone M. A.
+    email: simonelira@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University of Pernambuco. Recife-PE. Brazil.
+    orcid: 'https://orcid.org/0000-0002-1589-5826'
+  - given-names: Araujo
+    family-names: Moacyr
+    email: moa.ufpe@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-8462-6446'
+  - given-names: Hernandez
+    family-names: Fabrice
+    email: fabrice.hernandez@ird.fr
+    affiliation: >-
+      Institut de Recherche pour le Développement (IRD), LEGOS, Univ Toulouse,
+      CNRS, CNES, Toulouse, France
+    orcid: 'https://orcid.org/0000-0003-2152-0657'
+repository-code: 'https://doi.org/10.5281/zenodo.8152683'
+abstract: >-
+  Software to carry out statistical analysis, plot figures and maps of spatial
+  distribution of physical and biogeochemical parameters, calculation of the
+  parameters of the carbonate system of rivers and of MLD, ILD and BLT.
+keywords:
+  - Statistical analysis
+  - Biogeochemical parameters
+  - Physical oceanography
+  - Meteorology
+  - Rivers carbonate system
+  - MLD, ILD and BLT
+  - Sampling map plotting
+  - Wind and current roses plotting
+  - Hovmuller plot
+license: MIT
+version: '1.7'
+date-released: '2023-05-15'
